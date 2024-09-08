@@ -5,7 +5,7 @@ title: Diego Bedoya Castro
 
 baseurl: /AboutMe #name of GitHub repository
 url: "https://home.thequbit.net" #custom url to be used instead of GitHub repository
-email: "#"
+#email: "#"
 
 # Pagination
 #paginate: 
@@ -16,7 +16,7 @@ email: "#"
 #twitter: ""
 #linkedin: ""
 #stackoverflow: ""
-github: ""
+#github: ""
 #researchgate: "#"
 #orcid: "#"
 #quora: "#"
