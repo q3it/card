@@ -21,7 +21,7 @@ published: true
 ---
 # <span style="color:#2CBE96">Visión</span>
 ### <span style="color:#98a0ac">Aprendizaje y mejora continua</span>
-Sigo las útimas publicaciones relacionadas en el mundo de la seguridad informática, también me gustan los temas relacionados con los lenguajes de programación y su usabilidad.  
+Tengo un gran interés en la ciberseguridad, y estoy ansioso por aprender y crecer en este campo. También me gustan los temas relacionados con los lenguajes de programación y su usabilidad.  
 
 ### <span style="color:#98a0ac">Creación de proyectos</span>
 La creación de tus propios trabajos hacen parte importante en el desarrollo de las habilidades profesionales ya que una visión multidisciplinar tiene un impacto positivo en el pensamiento creativo.  
