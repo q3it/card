@@ -7,7 +7,7 @@ profile:
 published: true
 ---
 
-# <span style="color:#2CBE96">Información personal</span>
+<!--# <span style="color:#2CBE96">Información personal</span>
 
 <img src="assets/images/location.png" widht="70" height="50" style="float: left; margin-right: 10px; margin-bottom: 5px" />San Juan / Madrid, España <br>
 <br>
@@ -16,7 +16,7 @@ published: true
 <img src="assets/images/phone.png" widht="60" height="40" style="float: left; margin-right: 10px; margin-bottom: 5px" /> 618 000 000 <br>
 <br>
 <img src="assets/images/pdf.png" widht="60" height="40" style="float: left; margin-right: 10px; margin-bottom: 5px" /> CV <br>
-<br>
+<br> -->
 
 ---
 # <span style="color:#2CBE96">Visión</span>
