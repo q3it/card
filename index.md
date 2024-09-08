@@ -21,7 +21,7 @@ published: true
 ---
 <!--# <span style="color:#2CBE96">Visión</span>  Color subtítulos #98a0ac-->
 ### <span style="color:#2CBE96">Aprendizaje y mejora continua</span>
-Tengo un gran interés en la seguridad informática y todo lo que la compone, estoy ansioso por aprender y crecer en este campo.  
+Tengo un gran interés en la seguridad informática y en todo lo que la compone, estoy ansioso por aprender y hacer crecer mi perfil.  
 
 ### <span style="color:#2CBE96">Creación de proyectos</span>
 Crear tus propios trabajos hacen parte importante en el desarrollo de las habilidades profesionales ya que una visión multidisciplinar tiene un impacto positivo en el pensamiento creativo.  
