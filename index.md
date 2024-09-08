@@ -21,7 +21,7 @@ published: true
 ---
 # <span style="color:#2CBE96">Visión</span>
 ### <span style="color:#98a0ac">Aprendizaje y mejora continua</span>
-Creo que la base de un buen informático es el deseo constante de aprender y seguir los nuevos desarrollos tecnológicos. Soy un ávido lector de blogs relacionados con la ciberseguridad y otros temas que puede que no se relacionen exclusivamente con mi área de especialización, ya que también estoy muy interesado en los lenguajes de programación y su usabilidad.  
+Sigo las útimas publicaciones relacionadas en el mundo de la seguridad informática, también me gustan los temas relacionados con los lenguajes de programación y su usabilidad.  
 
 ### <span style="color:#98a0ac">Creación de proyectos</span>
 La creación de tus propios trabajos hacen parte importante en el desarrollo de las habilidades profesionales ya que una visión multidisciplinar tiene un impacto positivo en el pensamiento creativo.  
