@@ -21,10 +21,10 @@ published: true
 ---
 <!--# <span style="color:#2CBE96">Visión</span>  Color subtítulos #98a0ac-->
 ### <span style="color:#2CBE96">Aprendizaje y mejora continua</span>
-Tengo un gran interés en la seguridad informática y en todo lo que la compone, estoy ansioso por aprender y hacer crecer mi perfil.  
+Tengo un gran interés por la seguridad informática y todo lo que la compone. Una visión multidisciplinar tiene un impacto positivo en el pensamiento creativo.  
 
 ### <span style="color:#2CBE96">Creación de proyectos</span>
-Crear tus propios trabajos hacen parte importante en el desarrollo de las habilidades profesionales ya que una visión multidisciplinar tiene un impacto positivo en el pensamiento creativo.  
+Me siento motivado por aprender. Pienso que tus propios proyectos hacen parte importante en el desarrollo de las habilidades profesionales.  
 
 ### <span style="color:#2CBE96">Herramientas</span>
 Cuando experimento con nuevas herramientas, busco entender su estructura interna para reutilizarlas en proyectos personales. Hay muchas formas de lograr que un programa funcione de una manera fácil y elegante. Evito cuidadosamente la redundancia, me preocupo por el desempeño y las mejores prácticas. Siempre trato de imaginar cómo una determinada herramienta podría modificarse y cómo puedo hacerla más ágil y fácilmente interpretable para otros usuarios.  
