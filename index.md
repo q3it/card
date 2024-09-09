@@ -21,7 +21,7 @@ published: true
 ---
 <!--# <span style="color:#2CBE96">Visión</span>  Color subtítulos #98a0ac-->
 ### <span style="color:#2CBE96">Aprendizaje y mejora continua</span>
-Tengo un gran interés por la seguridad informática y todo lo que la compone. Una visión multidisciplinar tiene un impacto positivo en el pensamiento creativo.  
+Tengo un gran interés por la seguridad informática y todo lo que la compone. Creo que una visión multidisciplinar tiene un impacto positivo en el pensamiento creativo.  
 
 ### <span style="color:#2CBE96">Creación de proyectos</span>
 Me siento motivado por aprender. Pienso que tus propios proyectos hacen parte importante en el desarrollo de las habilidades profesionales.  
