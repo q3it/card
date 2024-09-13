@@ -104,13 +104,13 @@ blockquote {
   padding-left: 1em;
   font-family: Lora;
   /*font-family: Georgia,Times,Times New Roman,serif;*/
-  font-size: 0.9*$base-font-size;
+  font-size: 1.5*$base-font-size;
   font-style: italic;
 }
 
 
 .headline, .post-headline {
-  font-size: 3em;
+  font-size: 2em;
   margin-bottom: -0.4em;
 
   @include media-query($on-palm) {
