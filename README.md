@@ -1,12 +1,11 @@
 # Card
 
-Responsive, dark-mode ready Jekyll theme designed for use as a personal website and portfolio.
+Responsive, dark-mode ready Jekyll theme designed for use as a personal website.
 
 ## Features
 - Responsive.
-- Respects Dark Mode preference set by the user.
-- Projects Page to showcase your work/side projects.
-- Easily link to your profiles on ResearchGate and ORCID.
+- Dark Mode preference.
+- Page for presentations.
 
 ## Documentation
 
