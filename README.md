@@ -1,6 +1,7 @@
 # Card
 
 Responsive, dark-mode ready Jekyll theme designed for use as a personal website.
+![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](card.png)
 
 ## Features
 - Responsive.
