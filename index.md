@@ -3,7 +3,7 @@ layout: about
 permalink: /
 profile:
   align: right
-  image: codificacion.gif
+  image: programacion.gif
 published: true
 ---
 
