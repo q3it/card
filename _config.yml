@@ -4,7 +4,7 @@ title: Diego Bedoya Castro
 # description: subtitle | affiliations | motto
 
 baseurl: /AboutMe #name of GitHub repository
-url: "https://home.thequbit.net" #custom url to be used instead of GitHub repository
+url: "" #custom url to be used instead of GitHub repository
 #email: "#"
 
 # Markdown
