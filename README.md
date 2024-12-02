@@ -1,7 +1,11 @@
 # Card
 
 Responsive, dark-mode ready Jekyll theme designed for use as a personal website.  
-![Screenshot de la página](card.png)
+
+  
+<p align="center">
+<img src="card.png">
+</p>
 
 ## Features
 - Responsive.
