@@ -4,7 +4,7 @@ Responsive, dark-mode ready Jekyll theme designed for use as a personal website.
 
   
 <p align="center">
-<img src="card.png">
+<img src="assets/images/card.png">
 </p>
 
 ## Features
