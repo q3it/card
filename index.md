@@ -7,7 +7,7 @@ profile:
 published: true
 ---
 <!--# <span style="color:#2CBE96">Visión</span>  Color subtítulos #98a0ac-->
-### <span style=font-family: Titan One,sans-serif; "color:#2CBE96">Creación de proyectos</span>  
+### <span style="font-family: Titan One,sans-serif; color:#2CBE96">Creación de proyectos</span>  
 <p style="font-family: Lato,sans-serif; font-style: normal;">Me siento motivado por desarrollar trabajos propios y así afianzar mis habilidades profesionales.</p>
 
 ### <span style="color:#2CBE96">Aprendizaje y mejora continua</span>
