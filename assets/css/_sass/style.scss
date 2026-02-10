@@ -3,7 +3,7 @@ html, body {
 }
 
 body {
-  max-width: 60%;
+  max-width: 50%;
   font-family: $base-font-family;
   margin: 0 auto;
   line-height: $base-line-height;
@@ -162,7 +162,7 @@ blockquote {
 }
 
 /* Horizontal scrolling navbar. From: https://iamsteve.me/blog/horizontal-scrolling-responsive-menu */
-.scroll {
+/*.scroll {
   white-space: nowrap;
   overflow-x: auto;
   -webkit-overflow-scrolling: touch;
@@ -170,7 +170,7 @@ blockquote {
 
 .scroll::-webkit-scrollbar {
   display: none; }
-
+*/
 
 /* Button */
 .simplebutton {
