@@ -8,8 +8,8 @@ published: true
 ---
 <!--# <span style="color:#2CBE96">Visión</span>  Color subtítulos #98a0ac-->
 ### <span style="color:#2CBE96">Creación de proyectos</span>  
-<p style="font-family: 'Times New Roman', Times, serif;">Me siento motivado por desarrollar trabajos propios y así afianzar mis habilidades profesionales.</p>
-
+<p style="font-family: Lato,sans-serif;">Me siento motivado por desarrollar trabajos propios y así afianzar mis habilidades profesionales.</p>
+Lato,sans-serif
 
 ### <span style="color:#2CBE96">Aprendizaje y mejora continua</span>
 Tengo un gran interés por la ciberseguridad y todo lo que la compone. Creo firmemente que un conocimiento multidisciplinar tiene un gran impacto en el pensamiento creativo.
